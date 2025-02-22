@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.zip
+chromedriver
+.DS_Store
+*.DS_Store
+venv
+__pycache__
+*.csv
